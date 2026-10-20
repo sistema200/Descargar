@@ -1,10 +1,10 @@
 {
   "name": "Descarga de apk",
-  "short_name": "Descargar",
+  "short_name": "Descarga de apk",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#000000",
-  "theme_color": "#ff0004",
+  "theme_color": "#000000",
   "orientation": "portrait",
   "icons": [
     {
